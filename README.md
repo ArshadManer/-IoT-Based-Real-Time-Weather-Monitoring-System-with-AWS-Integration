@@ -11,4 +11,3 @@ Installing Necessary Arduino Libraries
 Open a new sketch in Arduino IDE & paste the code of AWS_ESP32 and save it.
 Open a New Tab in Arduino IDE and name it as Secrets.h. And paste the code of Secrets.h to this file.
 
-![GitHub Logo]([https://github.com/ArshadManer/IOT_Whether_condition](https://github.com/ArshadManer/IOT_Whether_condition/blob/main/Screenshot%202023-09-23%20173207.png)https://github.com/ArshadManer/IOT_Whether_condition/blob/main/Screenshot%202023-09-23%20173207.png)
