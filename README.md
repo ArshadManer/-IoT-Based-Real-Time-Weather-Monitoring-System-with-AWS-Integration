@@ -2,7 +2,7 @@
 For installing ESP32 and ESP8266 board, add below links in board manager URL
 http://arduino.esp8266.com/stable/package_esp8266com_index.json,
 https://dl.espressif.com/dl/package_esp32_index.json
-
+ 
 Installing Necessary Arduino Libraries
 1. ArduinoJSON Library
 2. PubSubClient Library
